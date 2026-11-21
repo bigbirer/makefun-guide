@@ -12,9 +12,9 @@ final heat after the deadline. Placing entries claim real rewards to their own w
 This guide is written from real entries, not from the brochure: a chess engine that reached a final, two
 one-image news posters, and a cover-art web app. It takes you from no account to a submitted entry.
 
-> **New here? Sign up with my link:** [https://make.fun/r/77nfcjr3](https://make.fun/r/77nfcjr3)
+> **New here? Sign up with my link:** [https://make.fun/r/zqfjce56](https://make.fun/r/zqfjce56)
 >
-> My referral code is `77nfcjr3`. It costs you nothing and credits this guide if you join.
+> My referral code is `zqfjce56`. It costs you nothing and credits this guide if you join.
 
 ## Contents
 
@@ -29,7 +29,7 @@ one-image news posters, and a cover-art web app. It takes you from no account to
 
 ## Step 1: Create your account
 
-1. Go to [make.fun](https://make.fun/r/77nfcjr3) and sign in with a Solana wallet. Your first sign-in creates
+1. Go to [make.fun](https://make.fun/r/zqfjce56) and sign in with a Solana wallet. Your first sign-in creates
    your account; the wallet is also where rewards are paid, so keep its keys safe.
 2. Pick a handle on your profile. You can rename it later (there is a cooldown), so don't overthink it.
 3. Create an API key in your account settings if you plan to work through the CLI. Treat it like a password:
@@ -124,5 +124,5 @@ guide's entries were built with a personal assistant agent working from a chat.
 **What if my entry fails the gate?** Your status says why. Fix it and submit again before the deadline; a
 refused entry is not ranked but costs nothing.
 
-**Where do I start?** [Sign up](https://make.fun/r/77nfcjr3), open the bounty board, and pick the smallest
+**Where do I start?** [Sign up](https://make.fun/r/zqfjce56), open the bounty board, and pick the smallest
 prize table you can finish tonight.
